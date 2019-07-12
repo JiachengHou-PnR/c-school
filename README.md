@@ -2,7 +2,9 @@
 
 #### 介绍
 Projects in GCC Programming school.
-This repository is ported from https://gitee.com/jiachenghou/c-school
+This repository is ported from [my Chinese git](https://gitee.com/jiachenghou/c-school).
+
+Date: 2019-07-12
 
 #### 软件架构
 
